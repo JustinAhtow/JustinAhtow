@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustinAhtow
+- 👋 Hi, I’m @JustinAhTow
 - 👀 I’m interested in Front and Back End development.
 - 🌱 I’m currently learning Html, CSS and Javascript.
 - 💞️ I’m looking to join a community on my web development journey.
